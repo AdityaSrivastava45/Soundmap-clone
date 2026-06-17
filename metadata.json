@@ -1,0 +1,10 @@
+{
+  "name": "Soundmap Music Discovery Game",
+  "description": "An interactive location-based music discovery game where players scan for drops, collect songs, trade tracks, and complete artist quests.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
